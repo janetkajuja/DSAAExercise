@@ -1,0 +1,7 @@
+kajuja@kajuja-HP-ProBook-440-G1:~/Desktop/DSAAExercise$ ls
+DSAAEx
+kajuja@kajuja-HP-ProBook-440-G1:~/Desktop/DSAAExercise$ pylint DSAAEx
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
